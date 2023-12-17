@@ -37,8 +37,8 @@ const Home: NextPage = () => {
           <div className={styles.heroBodyContainer}>
             <div className={styles.heroBody}>
               <h1 className={styles.heroTitle}>
-                <span className={styles.heroTitleGradient}>
-                  Build NFT Marketplaces
+              <span className={styles.heroTitleGradient}>
+                  TRADE NFT's
                 </span>
                 <br />
                 faster than ever.
@@ -46,25 +46,25 @@ const Home: NextPage = () => {
               <p className={styles.heroSubtitle}>
                 <Link
                   className={styles.link}
-                  href="https://thirdweb.com"
+                  href="https://vordium.com"
                   target="_blank"
                 >
-                  thirdweb
+                  VORDIUM
                 </Link>{" "}
-                gives you the tools you need to create audited, performant, and
-                flexible NFT marketplaces in <b>hours</b>, <i>not months</i>.
+                gives you the tools you need to buy, sell, and
+                auction NFT's in one marketplaces in.
               </p>
 
               <div className={styles.heroCtaContainer}>
                 <Link className={styles.heroCta} href="/buy">
-                  Get Started
+                  BUY
                 </Link>
                 <Link
                   className={styles.secondaryCta}
-                  href="https://github.com/thirdweb-example/marketplace-v3"
+                  href="/sell"
                   target="_blank"
                 >
-                  GitHub
+                  SELL
                 </Link>
               </div>
             </div>
