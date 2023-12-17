@@ -52,7 +52,7 @@ const Home: NextPage = () => {
                   VORDIUM
                 </Link>{" "}
                 gives you the tools you need to buy, sell, and
-                auction NFT's in one marketplaces in.
+                auction NFTs in one marketplaces in.
               </p>
 
               <div className={styles.heroCtaContainer}>
