@@ -38,7 +38,7 @@ const Home: NextPage = () => {
             <div className={styles.heroBody}>
               <h1 className={styles.heroTitle}>
                 <span className={styles.heroTitleGradient}>
-                  TRADE NFT's
+                  TRADE NFTs
                 </span>
                 <br />
                 faster than ever.
